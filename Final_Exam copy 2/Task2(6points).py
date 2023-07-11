@@ -20,6 +20,35 @@ You are not allowed to use for and while loops.
 #     return list(filter(lambda x: x%2 ==0,lst))
 # print(func([1,2,3,4,5,6]))
 ''' Implement a function that takes a list of strings and returns a new list with all strings converted to uppercase.'''
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Aeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # def func(lststr):
 #     return list(map(lambda str: str.upper(),lststr))
 # print(func(['bla','eh','hmm']))
