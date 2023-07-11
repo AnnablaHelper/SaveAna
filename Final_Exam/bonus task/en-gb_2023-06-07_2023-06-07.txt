@@ -1,0 +1,100 @@
+$ 13.75 in £	1	0.8519067
+$1.68 in gbp	1	0.95803565
+$115,212 in gbp	1	0.947263
+$250	Null	1.1
+$49.95	Null	0.91373307
+$57 to £	1	Null
+$7 usd	1	0.97125185
+$92 in pounds	1	0.9196483
+1 bbd to all	1	0.9503751
+1 bdt to pkr	1	0.9446686
+1 euro in indian rupee	1	0.91171354
+1 gpb to usd	1	1.1
+1 pln nach all	1	0.9356178
+10 gbp to cnh	1	0.9148922
+100 bgn to bgn	1	0.9104253
+140000 aed to gbp	1	0.9535748
+1550 pounds to euros	1	0.9373814
+1561 us$ to £	Null	0.9433654
+157850 nok to usd	1	0.8902192
+169.05 gbp to usd	1	0.92640424
+1aud ro nzd	1	0.8876926
+1gbpto cad	1	0.90636665
+2000 euro to pln	1	0.87539536
+2260 pln in omr	1	0.9390376
+250pounds in baht	1	0.8999736
+254 dollars to naira	Null	0.9324162
+269myr to rmb	1	0.9278835
+27000 gbp to cad	1	0.9042513
+28555.18 thb to pounds	1	0.8410463
+3000 australian dollars to pounds	1	0.90761304
+34,500 rands in uk	Null	0.94660145
+3500 gbp to cad	1	0.8773042
+4,450 rand to gbp	Null	0.93749136
+40540 yen	1	0.94067675
+45 euros to us dollars	Null	0.9303359
+50$ in pound	Null	0.91340744
+530 dollars in pounds	1	1.1
+56,376.86 usd	1	0.8445011
+6,03€	1	0.898345
+6.7 billions dollars in pounds	1	0.8517177
+60 euros to gbp	1	0.8968075
+60 usd in pounds	1	0.9056425
+600 dollars as pounds	Null	0.90550065
+61 dollar	1	0.876985
+7,971.97usd to gbp	1	0.92937946
+75 php to usd	1	0.9211321
+88 yuan to gbp	1	0.91335833
+advfn gbp	Null	0.7992077
+aer to ugx	Null	0.8206997
+bahamian quarter dollar	Null	0.8979494
+canadian money where is dollar sign written	Null	0.8329495
+conversion of euros to pounds sterling	Null	0.91623944
+convert from $ to £	1	0.8319497
+convert isk to pounds	1	0.90966
+convert us to gbp	1	0.89975226
+convert £422.47 to usd	1	0.9596497
+cuanto son en euros 350.000.000 colombianos	Null	0.9105397
+currency in amsterdam	Null	0.7637663
+currency iof guinea	Null	0.95029116
+curreny covnerter	Null	1.1
+divide gbp to euros	Null	0.8885546
+dkk/zar currency pair	Null	0.89970565
+dolar hoje real	Null	0.93216795
+dollar to inr	1	1.1
+dollers to pounds	1	1.1
+eur to zar conversion	1	0.9325307
+euro 2020	0.1	Null
+euro to gpn	Null	0.9465162
+exchange kuna into euro	Null	0.92586803
+exchange rate pound to icelandic krona	Null	0.9348651
+fx currency exchange	Null	0.93639016
+gbp to cad exchange rate may 2023	Null	0.95515865
+gbp to dollar exchange rate	1	0.93998474
+hkd to usd	1	1.1
+how much is $34.95 in pounds	Null	0.86338204
+lek to gbp	1	0.95287853
+mauritian rupees to pound sterling	Null	0.9271556
+moneda praga a euros	Null	0.9160255
+naira4dollar	Null	0.8694532
+new pound coin	Null	0.8191344
+nis to pound	Null	0.927565
+oman currency	Null	1.1
+pound against the euro	Null	1.1
+pound to euro exchange	Null	0.91553754
+pounds to bulgarian lev exchange white rose leeds	Null	0.85972154
+rmb bic	Null	0.91996956
+saudi riyals to euro	Null	0.9180823
+sterling to egyptian pounds	Null	0.94106025
+tl	Null	1.1
+uk currency exchange john lewis	Null	0.774301
+us dollar to euros	1	0.9232544
+usa dollars to pound sterling conversion calculator	Null	0.94024193
+usd brl	1	0.9661324
+usd to eur historical rates	Null	0.9204772
+what is  chf 46,300	Null	0.8616714
+what is 10 cad in £	Null	0.9629574
+xauusd live chart	1	0.8557424
+xe fx averega rate history	Null	0.86190724
+zar to gbp rate	1	0.9394508
+£ 11,400 to pkr	1	0.9819849

@@ -1,0 +1,100 @@
+$1,576.95	Null	0.8486835
+$24.98	Null	0.89772624
+$250	Null	1.1
+$539	Null	0.87485266
+0.036 dollars in cents	1	0.775836
+0.8 chf to usd	1	0.92569476
+1 329 €	1	0.90196925
+1 aud to jpy	1	0.8969487
+1 btc value	1	0.9130549
+1 btn 到 cny	1	0.9275629
+1 crc to eur	1	0.92396635
+1 doge coin in usd	Null	0.83896047
+1 dollar to inr	1	0.9235875
+1 eek to usd	1	0.9079339
+1 eur în eur	1	0.9107877
+1 inr to afn	1	0.9315174
+1 kes to ugx	1	0.92993987
+1 mil pesos mexicanos a dolares	Null	0.9103692
+1 million in usd	1	0.85869306
+1 mkd to usd	1	0.9507233
+1 usd to irr	1	0.9336604
+1 usd 到 cnh	1	0.9362432
+1 usd 到 mur	1	0.9362105
+1 vef to mxn	1	0.9150291
+10 btc	1	0.91381633
+10 dollar rug	Null	0.84802556
+100 000 million won to usd	1	0.9201286
+100 canadian dollars equals us	Null	0.90938026
+100 thb to krw	1	0.9094056
+100$ is hiw much in euros?	Null	0.9134317
+100,000aud to yen	1	0.9302897
+1000 jpy to cny	1	0.9404599
+1000 lira in dollars	1	0.95358336
+10000 lei in dolari	Null	0.9358522
+100000 ils in usd	1	0.95260227
+120 euros to usd	1	0.9303431
+13,100 qatar to usd	Null	0.93107337
+14 riyal in indian rupees	1	0.92330253
+140 000 pesos to dollars	1	0.9413193
+149 usd to idr	1	0.92882824
+15.99 pounds to dollars	1	0.9411508
+150 tl to	Null	0.91852343
+1500 usd in canadian	Null	0.9507137
+153330000 kpw to usd	1	0.8976031
+159 pounds to euro	1	0.9478425
+16 元	1	0.88873124
+168hkd	1	0.95943534
+1720 pln to brasilian reis	1	0.94920975
+18 euros to usd	1	0.9252027
+18,480 jpy to usd	1	0.93975896
+185.01 gbp to usd	1	0.91413975
+188 cad to us dollars	Null	0.95423955
+188000 cn to us	Null	0.93738973
+1887-1921 silver dollar	1	Null
+1美金等于多少人民币元	Null	0.9512485
+2 ft	1	Null
+2 riyals	1	0.8238035
+2 shekel coin	Null	0.85254467
+200.00 cadto usdf	1	1.1
+20000 euros to usd	1	0.91271186
+2014年美元 人民币汇率	Null	0.8755934
+2138cad to usd	1	0.9138061
+22.95 pounds in dollars	1	0.93572146
+2225400 cad to usd	1	0.91351646
+244 euro to usd	1	0.9182075
+25 aud to vnd	1	0.909253
+250 jpy to cny	1	0.8910512
+29,700円	1	0.6431657
+30 dollars in dominican pesos	1	0.93839127
+3000 dirhams in dollars	1	0.91815156
+3000 thb to usd	1	1.1
+32 euros to pounds	1	0.92940366
+35 tl to usd	1	0.93467873
+3500 usd to huf	1	0.89081204
+357.000 frs cfa to usd	Null	0.90473324
+364 eur to usd	1	0.90746814
+385000 pounds to dollars	1	0.944954
+4000 bot to usd	Null	0.8892309
+40000 dkk in usd	1	0.94857925
+4050 pesos to dollars	1	0.9283376
+422 cad to usd	1	0.9058553
+449000 ktw to usd	Null	0.9180807
+45 lira in dollars	1	0.9408333
+46000 euros in usd	1	0.9265075
+5 million won to usd	1	1.1
+50 thousand euros to dollars	1	0.92458314
+50 trillion zimbabwe dollars to usd exchange rate	Null	0.93021065
+5000 indian rupees	1	0.90986216
+5000 singapore dollar to usd	1	0.9148699
+500000 qar to aed	1	0.94600546
+5000000 inr to usd	1	0.9286947
+540 usd in eur	1	0.91819113
+5401755.57 rub to usd	1	0.9291825
+59 dollars to peso	1	0.9098194
+6 usd in yen	1	0.910492
+6'2 205 pounds	1	Null
+60 ty dong	Null	0.7971311
+6450 rub 到 cny	1	0.94396913
+699 sgd to usd	1	0.9317077
+70 euro to dollars	1	0.9304554
