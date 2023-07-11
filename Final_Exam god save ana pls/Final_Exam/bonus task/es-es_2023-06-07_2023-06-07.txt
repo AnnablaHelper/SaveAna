@@ -1,0 +1,100 @@
+1 mxn 到 cny	1	0.9321583
+14 riyal in indian rupees	1	0.92330253
+2239 pesos mexicanos	Null	0.8855402
+30 euros a dolares	1	0.9055956
+44,00 €	1	0.9322126
+conversor moneda euro	Null	0.9223233
+convertir 234.000 euros a pesetas	Null	0.87074316
+coronas a euros	Null	0.91236275
+dolar hoy a peso	Null	0.9336503
+dólar a guaraní	1	0.97669774
+eur vs cop	1	0.9570026
+euro a pesetas	Null	0.90756816
+euro currency pakistani rupees	Null	0.904666
+euro dólar	1	0.9488635
+euro money	Null	0.9586907
+from uk currancy to us dollars	Null	0.8981812
+ruble to	Null	0.96797985
+usd symbol	Null	0.8975173
+valor bitcoin el 03.04.23	Null	0.71973276
+xe conversor	Null	0.8800906
+1 crc a thb	1	0.89027584
+10 usd to php	1	0.90665025
+150 euros to ghana cedis	Null	0.9426791
+15667 eur a sek	1	0.9339305
+180 eur a gbp	1	0.8950321
+300 euros a soles	1	0.9278458
+388 yuanes a euros	1	0.9131787
+465 usd in euro	1	0.9323315
+570.000 pesetas a euros	Null	0.9102884
+79 euros in pounds	1	0.92702836
+90 dolares a euros	1	0.9183355
+bolivianos a reales	1	0.90227056
+cambio dirham euro	1	0.91486686
+cambio euro dinar jordano	1	0.9198676
+cambio peso mexicano a euros	1	0.9082032
+cambio peso uruguayo a dolar	1	0.9281372
+cuanto esta el euro	Null	0.95702165
+de dolares a eurosw	1	0.89648074
+divisas conversor	Null	0.9160228
+dolar vs real	1	0.9642344
+dolara euro	1	0.9376627
+euro q dolar	1	0.92888343
+moneda de islandia	Null	1.1
+pasar de euro a corona chec	Null	0.9577939
+peso colombiano a dólar	1	0.9183197
+precio bitcoin	1	0.92293185
+tipo de cambio dólar euro bce	Null	0.9009518
+turkish lira to euro	1	0.93434423
+twd to gbp	Null	0.9471558
+ucoin	Null	0.93640935
+ევროს კურსი	Null	0.9048602
+₺1380 in euro	1	0.9446437
+欧元换人民币汇率多少、	Null	0.90287775
+1 pln a usd	1	0.9102672
+10 francos 1951	1	Null
+100000 cops a euros	Null	0.9456813
+13 usd too euros	1	0.90089875
+160000 eur a eur	1	0.9283448
+699 tl en euros	1	0.93845457
+9591 gbp a eur	1	0.90456635
+cambio de dolar a euro en españa	Null	0.8475768
+cambio del día dólar	Null	0.90860957
+cambio por moneda	Null	0.89645135
+canadá moneda	Null	0.9499193
+conversor peso argentino euro	1	0.9178397
+convertir ron a euros	Null	0.8800892
+cuantos euros son 20000 pesos mexicanos	Null	0.9379466
+cuantos euros son 446,833 dolares	Null	0.94088703
+de dolar a peso dominicano	1	0.92494744
+dólares soles	1	0.9644733
+moneda grecia	Null	0.81850505
+moneda oficial de marruecos	Null	0.8768537
+pasar de yuanes a euros	Null	1.1
+uf chile a euros	Null	0.93592095
+xchange rate	Null	1.1
+汇率换算	Null	0.93624663
+1 aud to usd	1	0.910649
+1 usd a eur	1	0.90110207
+12000 pesetas a euros	Null	0.89766514
+180,000 mil pesos	1	Null
+2.85 eur to thb	1	0.8963705
+271 clp a pen	1	0.85106206
+30 dolares	1	0.9124627
+400 rublo ucraniano to eur	Null	0.9373755
+binance ptecio bitcoin	Null	0.8345407
+cambio de corona sueca a euros	1	0.93582106
+cambio de dolares a euros	1	1.1
+cambio dolar euro hoy	Null	1.1
+conversor libra esterlina a euro por fecha	Null	0.8884021
+cuantos son 9 dolares en euros	Null	0.93909323
+de € a francos cfa	Null	0.9253922
+inr	Null	0.86786914
+monede de aur australiene	Null	0.87056524
+usd a peso arg	Null	0.891631
+valor del bitcoin en euros	Null	0.9237848
+valor dolar chile proyectado	Null	0.8768831
+yen japones a eur	1	0.92126846
+çisk to eur	Null	0.8049211
+курс тенге к евро	Null	1.1
+1 kd to eur	Null	0.9331824
