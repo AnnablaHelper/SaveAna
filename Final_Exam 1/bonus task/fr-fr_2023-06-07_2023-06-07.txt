@@ -1,0 +1,100 @@
+1,854,000 yens en euro	1	0.951396
+100 euro en livre égyptienne	Null	0.8762843
+100 pesos 1978	1	Null
+100000 xof pour chf	1	0.944151
+14 riyal in indian rupees	1	0.92330253
+184 eur pour eur	1	0.913188
+1ù%741$	1	Null
+20000 euros to usd	1	0.91271186
+3000 lira in euro	1	0.9200271
+40000 vnd pour cny	1	0.9324374
+49.45 eur pour cad	1	0.88624644
+500 francs  français en euros	Null	0.8601864
+578 usd to eur	1	0.921178
+62 billion dollars in rupees	1	0.9020293
+797 eur to usd	1	0.912774
+837 dollars en euros	1	0.9253997
+88 sgd	Null	0.9051859
+9000 euros to pounds	1	0.9199467
+centre de change de monnaie	Null	0.80498797
+change bath et euros	Null	0.8847856
+changement monnaie chf	Null	0.8758878
+conversion euros inr	1	0.91040546
+converter pound euro	Null	0.9042025
+convertisseur euro peruvian	Null	0.9285091
+convertisseur pln euro bnp paribas	Null	0.7391102
+cours 20 dollars or américain	Null	0.7109473
+cours du ripple aujourd hui	Null	0.81845707
+euro 2020	0.1	Null
+euro money	Null	0.9586907
+francs en euros	1	1.1
+hkd to usd	1	1.1
+ieur	Null	0.8299992
+jpy83240 to hkd	Null	0.917077
+maurice 1 rupee 1994	Null	0.73391414
+q_$	1	Null
+swap terk to btc	Null	0.91153157
+taux us dollar euro	Null	0.8585891
+valeur de l'euro par rapport au franc	Null	0.75975263
+نرخ روز دلار	Null	0.8620987
+আজকে ওমান  টাকা রেট	Null	0.82141805
+1 brl pour cny	1	0.91538477
+1 eur pour xpf	1	0.9171839
+1 franc 1992 valeur	Null	0.6856869
+1 mnt pour thb	1	0.83678883
+115000 dollar in euro	1	0.94024074
+13.59 billion dollar en euro	1	0.8562742
+13000 yon	Null	0.8700509
+132-43 cp	1	Null
+1687,5 inr to eur	1	0.9506667
+1800 dollars en euros	1	0.91072154
+2 centimes euros	Null	0.78467786
+310 kina en fcfa	1	0.93565005
+350 euro in lei	1	0.8990274
+399000000 chf pour eur	1	0.9293561
+4 225 €	1	0.88805413
+6 eur pour eur	1	0.869197
+60 euro in rub	1	0.93187857
+729.66 qar to ngn	1	0.94872594
+80000 dzd pour eur	1	0.9275185
+87,93 €	1	0.81205726
+950美元等于多少人民币	1	0.9476548
+98,97 €	1	0.8158052
+cents américains	Null	0.7055426
+change euros pln	Null	0.88995534
+combien vaut 1 pound de 2007 cour en euro de yi jiao	Null	0.7996579
+combien vaut un dollars	Null	0.9226322
+conversion euros thb	1	0.8568745
+convertir 1 jpy en usd	1	0.8804891
+convertir 150euros en dollars	1	0.89544284
+cours gbp euro	Null	0.87677914
+eud eur	1	1.1
+eur to pkr	1	1.1
+euro in pakistani rupees	1	0.95522344
+euro sri lankan rupees	1	0.939459
+euro to pound exchange rate	Null	0.9231599
+euros en tl	1	1.1
+franc suisse euro	1	1.1
+francs euros	1	0.9154832
+historique cours du change suisse	Null	0.67658716
+india currency	1	0.9419053
+l' euro est à combien de france cfa actuellement	Null	0.7699035
+monaie turc	Null	0.93004066
+monnaie aeth	Null	0.91173744
+rmb en euro	1	0.9305822
+roubles en euros	1	1.1
+ucoin	Null	0.93640935
+yuan in euro	1	0.94147605
+£299 pound to euro	Null	0.9763366
+₺44,99	Null	0.84636587
+0.43 btc to gbp	1	0.9163264
+1 dts en euro	Null	0.9268753
+1 euro en livre sterling	1	0.8899988
+1 rub pour usd	1	0.93086934
+1.03 usd pour eur	1	0.9059512
+124 euro en livre	Null	0.903719
+165 026 €	1	0.85584176
+19,79€	1	0.9117167
+30000 aed to eur	1	0.95975596
+300€ en dollars australien	1	0.8994419
+31 billion dollar to eur	1	0.8768763
