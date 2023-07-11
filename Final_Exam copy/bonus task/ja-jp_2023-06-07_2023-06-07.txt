@@ -1,0 +1,100 @@
+$250	Null	1.1
+0.023usd	Null	0.88717717
+1000 riyal to taka	Null	0.9549839
+100en	1	Null
+12ドル	Null	0.89039075
+14.99usd	Null	0.9350238
+1690日元	1	0.94574
+19百万円	1	0.637053
+1dollar 何円	Null	0.8115732
+1ペソ いくら　フィリピン	Null	0.8750336
+26.81usd いくら	Null	0.9103789
+260,271百万円	1	Null
+3000 usd to jpy	1	0.915035
+3000日元	1	0.97516555
+3500 dollars to rmb	1	0.8782282
+406ドル	Null	0.8922628
+458 jpy 到 cny	1	0.9309429
+4600万円	1	Null
+4月 €レート	Null	0.86764467
+5ドル 日本円	Null	1.1
+6000ddu	Null	0.75157976
+6298macd	Null	0.8600399
+9,826万ユーロ	1	0.8690985
+9000 gbp to jpy today	1	0.94212854
+clp eur 換算	1	0.8472906
+convert bdt to jpy	1	0.94369256
+forent exchance 2.000 won	Null	0.93217963
+fx 一万通貨とは	Null	0.7625476
+hkd to usd	1	1.1
+how much is 72641 yen in dollars	Null	0.9432444
+huf 通貨	Null	0.9311968
+ils eur 換算	1	0.8447608
+jica レート	Null	0.8139489
+nok o	Null	0.62434554
+usd 1,082.60	Null	0.8815555
+usd idr	1	0.9567955
+zar jpy	1	1.1
+〇五銖銭の鋳造が始まる	Null	0.81685156
+アメリカ金貨	Null	0.6854545
+イランリヤル 為替レート ドル	Null	0.8967978
+ドル　種類	Null	0.7160601
+ビットコイン　価格　推移	Null	0.6150068
+ブラジル レアル 為替 見通し	Null	0.8028877
+二万円	1	Null
+元 為替	1	1.1
+円レート 他国通貨 計算　方法	Null	0.7663676
+匯率換算	Null	1.1
+為替 1ドル	Null	0.8998755
+為替 仲値	Null	0.6853305
+為替usd	1	0.93344253
+為替スプレッド 比較	Null	0.7658144
+為替レート人民元	1	0.9435342
+為替ｖ	Null	0.7243732
+$ 3 499	Null	0.8137281
+$89日本円	1	0.94174534
+0.165000cny	Null	0.88863975
+1 jpy - gbp	1	0.9022557
+10011美元汇率	1	0.9516498
+14400rmb 日元	Null	0.9304691
+1800万ドル 日本エン	Null	0.89737505
+181ユーロ 日本円	1	0.91198957
+1peso	1	0.9046629
+1万ドル　円	Null	0.905016
+20,394.83ドル	Null	0.8342211
+20000円	1	0.6938277
+200千円 いくら	Null	0.7056861
+22ドル	Null	0.8901132
+24.7 billion jpy to euros	1	0.88304615
+2899usd	1	0.9355369
+334美元等于多少人民币	1	0.9372204
+365$	1	Null
+4,400,000 vnd	1	0.8971457
+4,624万2,000ドル	Null	0.78877574
+40 million euro	1	0.6806437
+40usd	Null	0.9420349
+4100万ドルは日本円でいくら	Null	0.88590616
+5/18 レート	Null	0.8163765
+5000千万円	1	0.6245829
+6000 yen to gbp	1	0.91626054
+9 million uuro	1	0.70210665
+99529 usd - jpy	1	0.9285425
+au 1.375円	1	Null
+cve-2023	0.1	Null
+filo rate	Null	0.7202035
+hong kong exchange	Null	0.85829395
+idr ￥	Null	0.9591235
+kinnsouba	1	Null
+kinsouba	1	Null
+money	Null	0.6208582
+nz ドル 推移	Null	0.79523575
+oman 1 rial bangladeshi taka rate	Null	0.9174132
+rate yen ke rupiah hari ini	Null	0.9432391
+renminbi	1	1.1
+ttb eur	Null	0.6632944
+usd1=sgd	Null	0.94673777
+xccy usdjpy	Null	0.95856804
+yen euro prognose	Null	0.75599664
+yen to inr forecast	Null	0.9034581
+£29	Null	0.90665686
+£35,000	Null	0.8646039
